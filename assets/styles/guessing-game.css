@@ -1,0 +1,43 @@
+
+
+body {
+  display: grid;
+  grid-template-columns: 1fr;
+  justify-items: center;
+  align-items: center;
+  /* margin: 0 20%; */
+  /* height: 100vh; */
+  /* background-color: #0093E9; */
+  /* background-image: linear-gradient(0deg, #459fd3 0%, #4e928a 50%, #ffffff 100%); */
+  /* width: 50%;
+  max-width: 800px;
+  min-width: 480px;
+  margin: 0 auto; */
+}
+
+h1 {
+  font-family: 'Rampart One', cursive;
+  text-align: center;
+}
+
+figure {
+    width: 10em;
+}
+
+#info-question {
+    width: 50%;
+}
+
+p {
+  font-family: sans-serif;
+  padding: 1em;
+}
+
+label {
+    font-size: 1.5em;
+}
+
+.lastResult {
+  color: white;
+  padding: 3px;
+}
